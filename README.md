@@ -1,5 +1,6 @@
 ### Hellow World 👋
 ---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yaser-wyx&theme=tokyonight">
 
 My name is Yaser and I'm a student.
 - 🏫 I'm studying in: SEU
@@ -8,14 +9,10 @@ My name is Yaser and I'm a student.
 - 📫 How to reach me: [zhihu](https://www.zhihu.com/people/yaser-1) 
 - 😄 Pronouns: He
 
+
 ---
-### Some of my GitHub Stats
-[![Yaser-wyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaser-wyx&theme=tokyonight)](https://github.com/Yaser-wyx/github-readme-stats)
+### Used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser-wyx&langs_count=7&theme=tokyonight&layout=compact)](https://github.com/Yaser-wyx/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaser-wyx&repo=QinScript&theme=tokyonight)](https://github.com/Yaser-wyx/QinScript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaser-wyx&repo=the-super-tiny-compiler-modified&theme=tokyonight)](https://github.com/Yaser-wyx/the-super-tiny-compiler-modified)
-
 
 <!--
 **Yaser-wyx/Yaser-wyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
