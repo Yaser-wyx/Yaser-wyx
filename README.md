@@ -1,11 +1,12 @@
-### Hellow World 👋
+### Hello World 👋
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yaser-wyx&theme=tokyonight">
 
 My name is Yaser and I'm a student.
 - 🏫 I'm studying in: SEU
-- 🌱 I’m currently learning: CV
-- ⚡ Interesting in: AI and Compiler
+- 🌱 I’m currently learning: CV and CUDA
+- 🔭 I’m currently research on: Domain Generalization
+- ⚡ Interesting in: AI/Compiler/CUDA/TVM
 - 📫 How to reach me: [zhihu](https://www.zhihu.com/people/yaser-1) 
 - 😄 Pronouns: He
 
