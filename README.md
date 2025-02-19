@@ -2,8 +2,8 @@
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yaser-wyx&theme=tokyonight">
 
-My name is Yuxuan Wan (Yaser in English), and I am currently a PhD student preparing to begin my studies at Peking University (PKU) in the second half of 2025, under the supervision of Prof. [He Wang]([url](https://hughw19.github.io/)).
-- 🏫 I am presently working at: [Galbot]([url](https://www.galbot.com/))
+My name is Yuxuan Wan (Yaser in English), and I am currently a PhD student preparing to begin my studies at Peking University (PKU) in the second half of 2025, under the supervision of Prof. [He Wang](https://hughw19.github.io/).
+- 🏫 I am presently working at: [Galbot](https://www.galbot.com/)
 - 🌱 I’m currently learning: Emboided AI
 - 🔭 I’m currently research on: VLA
 - 📫 How to reach me: [zhihu](https://www.zhihu.com/people/yaser-1) 
